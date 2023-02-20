@@ -9,6 +9,8 @@ Voice assistant using chatGPT
 
 ![image](https://user-images.githubusercontent.com/19218518/206170122-61fbe94f-4b0c-4782-a344-e26ac0d4e2a7.png)
 
+4. Set the line 8 from file voiceGPT.py with your token. 
+
 ### Requisites installation
 
 ```bash
